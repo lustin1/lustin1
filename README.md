@@ -1,58 +1,61 @@
-![Banner](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Lustini&textBg=false&fontColor=061E29)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,100:2c5364&text=Lustini&fontColor=ffffff&fontSize=40" />
+</p>
 
-# Hi 👋 I'm Lustini
-🎓 Informatics Student | 💻 Data & AI Enthusiast  
+<h1 align="center">Hi 👋 I'm Lustini</h1>
+<p align="center">
+  🎓 Informatics Student • 💻 Data & AI Enthusiast
+</p>
 
-I focus on data analytics and visualization, currently learning machine learning, and aiming to build data-driven solutions for real-world problems.
+<p align="center">
+I’m passionate about data analytics and AI, currently exploring machine learning to build impactful, data-driven solutions.
+</p>
 
+---
 
-## 🛠️ Skills & Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-- Python
-- C++
-- SQL
+<p align="center">
 
-### 📊 Data & AI
-- Pandas
-- NumPy
-- Matplotlib
-- Machine Learning (basic)
+<img src="https://skillicons.dev/icons?i=python,cpp,sql" /><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-### 🧰 Tools
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
+</p>
+
+<p align="center">
+📊 Pandas • NumPy • Matplotlib • Machine Learning
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lustin1&show_icons=true&theme=tokyonight" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lustin1&layout=compact&theme=tokyonight" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lustin1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lustin1&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lustini_?igsh=MXAyeWpxM2tzajA3aQ%3D%3D&utm_source=qr)
+<p align="center">
+  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lustini_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lustini534@gmail.com)
 
+</p>
 
 ---
 
 ## ✨ Fun Fact
-> I love turning raw data into meaningful insights 📊
+
+<p align="center">
+I love turning raw data into meaningful insights 📊
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" />
 </p>
-
-
