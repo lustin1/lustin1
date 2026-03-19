@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Lustini&textBg=false)
+![Banner](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Lustini&textBg=false&fontColor=061E29)
 
 # Hi 👋 I'm Lustini
 🎓 Informatics Student | 💻 Data & AI Enthusiast  
@@ -28,9 +28,13 @@ I focus on data analytics and visualization, currently learning machine learning
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lustin1&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lustin1&show_icons=true&theme=tokyonight" width="100%" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lustin1&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lustin1&layout=compact&theme=tokyonight" width="100%" />
+</p>
 
 ---
 
@@ -47,5 +51,8 @@ I focus on data analytics and visualization, currently learning machine learning
 
 ---
 
-![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
+
 
