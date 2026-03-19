@@ -29,11 +29,11 @@ I focus on data analytics and visualization, currently learning machine learning
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lustin1&show_icons=true&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lustin1&show_icons=true&theme=tokyonight" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lustin1&layout=compact&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lustin1&layout=compact&theme=tokyonight" width="80%" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ I focus on data analytics and visualization, currently learning machine learning
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" />
 </p>
 
 
