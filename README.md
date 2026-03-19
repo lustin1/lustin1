@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Lustini&fontSize=40&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Lustini&textBg=false)
 
 # Hi 👋 I'm Lustini
 🎓 Informatics Student | 💻 Data & AI Enthusiast  
@@ -28,15 +28,17 @@ I focus on data analytics and visualization, currently learning machine learning
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lustin1&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lustin1&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect with Me
-- Instagram: https://www.instagram.com/lustini_?igsh=MXAyeWpxM2tzajA3aQ%3D%3D&utm_source=qr
-- Gmail: mailto:lustini534@gmail.com
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lustini_?igsh=MXAyeWpxM2tzajA3aQ%3D%3D&utm_source=qr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lustini534@gmail.com)
+
 
 ---
 
@@ -45,5 +47,5 @@ I focus on data analytics and visualization, currently learning machine learning
 
 ---
 
-## 🎨 Bonus
-![GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
