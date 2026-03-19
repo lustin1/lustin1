@@ -57,6 +57,7 @@ I love turning raw data into meaningful insights 📊
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWppMzFpYml1eWFraHUydTlqN21xMXA0ZHlxMG1tN2w1bnFyanR6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" height="300px"/>
 </p>
+
 
